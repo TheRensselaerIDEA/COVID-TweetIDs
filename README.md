@@ -17,5 +17,5 @@ Filter keywords were selected based on the following methods:
 
 While many of the keywords in our list are specific to COVID-19, there are some that are more general such as "school", "work", "sick", "testing", and "closed". By including these keywords we are casting a wider net to pick up discourse on topics that are heavily influenced by the COVID-19 pandemic but may not be directly related to the virus. We believe that this broader view is necessary in order to be able to capture the impact that the pandemic is having on society at large.
 
-## Keyword list (as of 3/21/2020):
+## Keyword list (as of 5/24/2020):
 See [keywords.txt](keywords.txt)
